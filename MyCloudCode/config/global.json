@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Quote Page": {
+            "applicationId": "BVYlNeCZVHVn6lCcAvs268TjS70yvwoGS45UQE5u", 
+            "masterKey": "S22hcOkfHUK1HSEA3TtuelLxsYAFI1EdXL03ibuj"
+        }, 
+        "_default": {
+            "link": "Quote Page"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.1"
+    }
+}
